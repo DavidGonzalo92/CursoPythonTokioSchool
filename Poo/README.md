@@ -1,1 +1,1 @@
-## Ejercicios de las diferenta partes del curso Poo de TokioSchool
+## Ejercicios de las diferentes partes del curso Poo de TokioSchool
